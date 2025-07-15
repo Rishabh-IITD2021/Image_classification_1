@@ -12,8 +12,7 @@ Mobile-Device-Scratch-Detection/
 ├── Document/
 │   ├── Problem_statement.pdf     # Description of the problem and project objectives
 │   └── Solution_report.pdf       # Detailed explanation of the solution approach and results
-├── README.md                     # Project overview and setup instructions
-├── requirements.txt              # List of dependencies
+├── README.md                     # Project overview and setup instructions            
 └── .gitignore                    # Files and directories to ignore in version control
 ```
 
